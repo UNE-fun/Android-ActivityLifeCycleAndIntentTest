@@ -1,0 +1,2 @@
+# Android-ActivityLifeCycleAndIntentTest
+ITアーキテクチャ特論の課題で作ったヤツ
